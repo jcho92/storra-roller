@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/storra-roller/static/css/main.f855e6bc.css",
-    "main.js": "/storra-roller/static/js/main.60e0de56.js",
+    "main.js": "/storra-roller/static/js/main.b82fc189.js",
     "static/js/453.741ab2d5.chunk.js": "/storra-roller/static/js/453.741ab2d5.chunk.js",
     "index.html": "/storra-roller/index.html",
     "main.f855e6bc.css.map": "/storra-roller/static/css/main.f855e6bc.css.map",
-    "main.60e0de56.js.map": "/storra-roller/static/js/main.60e0de56.js.map",
+    "main.b82fc189.js.map": "/storra-roller/static/js/main.b82fc189.js.map",
     "453.741ab2d5.chunk.js.map": "/storra-roller/static/js/453.741ab2d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.60e0de56.js"
+    "static/js/main.b82fc189.js"
   ]
 }
